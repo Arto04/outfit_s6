@@ -4,3 +4,9 @@ MINGGU 1
 -Rabu=fhitmbiru(hitam)>putih>coklat
 -kamis=fbirucoklat(erigocoklat)>coklat>coklat
 -Jum'at=fbirucoklat(enjoylife)>coklat>hitam
+MINGGU 2
+-Senin=fhitam(putihbintikijo)>coklat>hitam
+-Selasa=fhitmbiru
+-Rabu=
+-kamis=
+-Jum'at=
