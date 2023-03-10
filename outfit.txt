@@ -8,5 +8,6 @@ MINGGU 2
 -Senin=fhitam(putihbintikijo)>putih>hitam
 -Selasa=fhitmbiru(putihabu)>coklat>hitam 
 -Rabu=fhitm(enjoylife)>coklat>hitam
--kamis=
--Jum'at=
+-kamis=hudibiru(hitam)>putih>biru
+-Jum'at=fbirucoklat(N.Y.C)>coklat>coklat
+
