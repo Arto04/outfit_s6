@@ -10,4 +10,9 @@ MINGGU 2
 -Rabu=fhitm(enjoylife)>coklat>hitam
 -kamis=hudibiru(hitam)>putih>biru
 -Jum'at=fbirucoklat(N.Y.C)>coklat>coklat
+MINGGU 3 
+-Senin=fhitmbiru (Osaka)>putih>coklat
+-Selasa=jakethitam (erigocoklat)>coklat>coklat 
+
+
 
