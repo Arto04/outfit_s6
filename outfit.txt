@@ -13,6 +13,6 @@ MINGGU 2
 MINGGU 3 
 -Senin=fhitmbiru (Osaka)>putih>coklat
 -Selasa=jakethitam (erigocoklat)>coklat>coklat 
-
+-Rabu=fhitmbiru(hitam)>coklat>hitam
 
 
