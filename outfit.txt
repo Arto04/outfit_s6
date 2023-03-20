@@ -16,4 +16,5 @@ MINGGU 3
 -Rabu=fhitmbiru(hitam)>coklat>coklat 
 -kamis=fhitm(enjoylife)>coklat>hitam
 -Jum'at=LIBUR
-
+MINGGU 4
+Senin=fhitam(hitamyesterday)>putih>coklat
