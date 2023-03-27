@@ -17,5 +17,10 @@ MINGGU 3
 -kamis=fhitm(enjoylife)>coklat>hitam
 -Jum'at=LIBUR
 MINGGU 4
-Senin=fhitam(hitamyesterday)>putih>coklat
-Selasa=hudibiru(putihbintikhijo)>putih>coklat
+-Senin=fhitam(hitamyesterday)>putih>coklat
+-Selasa=hudibiru(putihbintikhijo)>putih>coklat
+-Rabu=LIBUR
+-Kamis=LIBUR
+-Jum'at=jakethitam(hitamyesterday)>coklat>coklat
+MINGGU 
+-Senin=fhitmbiru (Osaka)>putih>coklat
