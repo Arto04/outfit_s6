@@ -24,3 +24,5 @@ MINGGU 4
 -Jum'at=jakethitam(hitamyesterday)>coklat>coklat
 MINGGU 
 -Senin=fhitmbiru (Osaka)>putih>coklat
+-Selasa=LIBUR
+-Rabu=fcoklatbiru(erigocoklat)>coklat>hitam 
