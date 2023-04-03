@@ -22,7 +22,15 @@ MINGGU 4
 -Rabu=LIBUR
 -Kamis=LIBUR
 -Jum'at=jakethitam(hitamyesterday)>coklat>coklat
-MINGGU 
+MINGGU 5
 -Senin=fhitmbiru (Osaka)>putih>coklat
 -Selasa=LIBUR
 -Rabu=fcoklatbiru(erigocoklat)>coklat>hitam 
+-Kamis=fhitam(putihabu)>coklat>hitam
+-Jum'at=fhitam(putihabu)>coklat>hitam
+MINGGU 6
+-Senin=fhitmbiru (Osaka)>putih>coklat
+-Selasa=
+-Rabu= 
+-Kamis=
+-Jum'at=
