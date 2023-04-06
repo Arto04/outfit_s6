@@ -30,7 +30,7 @@ MINGGU 5
 -Jum'at=fhitam(putihabu)>coklat>hitam
 MINGGU 6
 -Senin=fhitmbiru (Osaka)>putih>coklat
--Selasa=
+-Selasa=fhitam(erigocoklat)>coklat>coklat 
 -Rabu= 
 -Kamis=
 -Jum'at=
