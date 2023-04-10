@@ -32,5 +32,11 @@ MINGGU 6
 -Senin=fhitmbiru (Osaka)>putih>coklat
 -Selasa=fbirucoklat(enjoylife)>coklat>hitam
 -Rabu=fhitam(erigocoklat)>coklat>coklat  
+-Kamis=fcoklatbiru ()>coklat>coklat
+-Jum'at=LIBUR 
+MINGGU 6
+-Senin=fhitmbiru (PutihAbu)>putih>coklat
+-Selasa=
+-Rabu=  
 -Kamis=
--Jum'at=fhitmbiru ()>coklat>coklat
+-Jum'at=
