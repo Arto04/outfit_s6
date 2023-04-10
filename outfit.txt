@@ -33,4 +33,4 @@ MINGGU 6
 -Selasa=fbirucoklat(enjoylife)>coklat>hitam
 -Rabu=fhitam(erigocoklat)>coklat>coklat  
 -Kamis=
--Jum'at=
+-Jum'at=fhitmbiru ()>coklat>coklat
