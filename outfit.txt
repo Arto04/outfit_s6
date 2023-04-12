@@ -35,8 +35,8 @@ MINGGU 6
 -Kamis=fcoklatbiru ()>coklat>coklat
 -Jum'at=LIBUR 
 MINGGU 6
--Senin=fhitmbiru (PutihAbu)>putih>coklat
--Selasa=
--Rabu=  
+-Senin=fhitmbiru(PutihAbu)>putih>coklat
+-Selasa=jakethitam(enjoylife)>coklat>coklat 
+-Rabu=hudiebiru(putihbintikhijo)>coklat>coklat
 -Kamis=
 -Jum'at=
