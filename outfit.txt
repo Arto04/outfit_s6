@@ -38,5 +38,5 @@ MINGGU 6
 -Senin=fhitmbiru(PutihAbu)>putih>coklat
 -Selasa=jakethitam(enjoylife)>coklat>coklat 
 -Rabu=hudiebiru(putihbintikhijo)>coklat>coklat
--Kamis=
+-Kamis=hitambiru()>coklat>biru
 -Jum'at=
